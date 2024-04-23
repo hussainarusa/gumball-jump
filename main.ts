@@ -121,3 +121,4 @@ scene.setBackgroundImage(img`
     fffffffffffffffffffffffffffffffffbffffffbffffffffffffffffffffffbfcffffcfffffffffffffffcffffffffffffffffffffffffffffffffffffffffffffffffffffdddffffffffffccffffff
     `)
 let mySprite = sprites.create(assets.image`gumball`, SpriteKind.Player)
+info.setLife(3)
